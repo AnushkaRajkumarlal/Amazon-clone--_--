@@ -1,0 +1,1 @@
+-_- includes the project related to amazon clone , REMINDER :- but its doesnot include the img 
